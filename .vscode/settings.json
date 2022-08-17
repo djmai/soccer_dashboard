@@ -1,0 +1,6 @@
+{
+  "[dart]": {
+    "editor.cursorBlinking": "blink"
+  },
+  "dart.flutterRunAdditionalArgs": ["--no-sound-null-safety"]
+}
